@@ -1,0 +1,17 @@
+CategoryID,CategoryName
+1Moncid,Monitor
+2Discid,Disk
+3Keycid,Keybord
+4Moucid,Mouse
+5Pricid,Printer
+6Gpacid,GUP
+7Gracid,Graphics
+8Roucid,Router
+9Netcid,Network
+10Motcid,Motherboard Assocries
+11webcid,Webcam
+12Cpucid,CPU
+13Powcid,Power Supply adaptor
+14Procid,Processor
+15Modcid,Modem
+16fancid,Fan

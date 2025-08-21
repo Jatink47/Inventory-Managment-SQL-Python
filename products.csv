@@ -1,0 +1,97 @@
+ProductID,ProductName,CategoryID,Price,ReorderLevel
+IN33AlwWEB,Always Webcam,11webcid,673.5,35
+IN34FulMtr,Full Monitor,1Moncid,298.52,48
+IN34OthMtr,Others Monitor,1Moncid,371.04,13
+IN452LeaGraph,Learn Graphics Card,7Gracid,488.19,20
+IN10OnCPU,On CPU,12Cpucid,816.9,10
+IN452KeeGraph,Keep Graphics Card,7Gracid,772.88,15
+IN45InPntr,Interest Printer,5Pricid,976.45,25
+IN678CuRotr,Cut Router,8Roucid,649.69,38
+IN68ParPROCESR,Partner Processor,14Procid,462.45,9
+IN33StrWEB,Structure Webcam,11webcid,660.88,28
+IN32Li-Key,List Keyboard,3Keycid,485.51,34
+IN12TeaMou,Teach Mouse,4Moucid,465.78,40
+IN45Casply,Carry Power Supply,13Powcid,323.79,42
+IN678UnRotr,Under Router,8Roucid,859.93,38
+IN453Meedriv,Meeting External Hard Drive,2Discid,988.11,12
+IN34SenMtr,Send Monitor,1Moncid,154.43,27
+IN678CaRotr,Can Router,8Roucid,996.04,15
+IN32Wh-Key,Whose Keyboard,3Keycid,67.88,9
+IN34GovMtr,Government Monitor,1Moncid,259.49,36
+IN98NeaADA,Nearly Network Adapter,9Netcid,727.44,23
+IN678EvRotr,Ever Router,8Roucid,801.36,9
+IN34ThiMtr,Third Monitor,1Moncid,178.39,45
+IN34HeaMtr,Heart Monitor,1Moncid,972.43,44
+IN98Be ADA,Be Network Adapter,9Netcid,817.93,36
+IN98FasADA,Fast Network Adapter,9Netcid,716.3,37
+IN345UsuRAM,Usually RAM,2Discid,405.3,21
+IN10CoCPU,Collection CPU,12Cpucid,908.21,34
+IN34IntMtr,Interest Monitor,1Moncid,959.79,40
+IN34SucMtr,Successful Monitor,1Moncid,290.42,32
+IN44HuMtrbrd,Husband Motherboard,10Motcid,138.05,27
+IN45Clsply,Close Power Supply,13Powcid,739.67,13
+IN378ReaMDM,Really Modem,15Modcid,544.67,16
+IN44SaMtrbrd,Say Motherboard,10Motcid,983.22,42
+IN33ParSCNR,Partner Scanner,5Pricid,416.48,29
+IN12FacMou,Face Mouse,4Moucid,140.4,41
+IN45MePntr,Medical Printer,5Pricid,931.29,26
+IN44PuMtrbrd,Purpose Motherboard,10Motcid,476.5,46
+IN55FulGpu,Full GPU,6GPacid,545.68,39
+IN12LatMou,Later Mouse,4Moucid,755.14,22
+IN68ManPROCESR,Man Processor,14Procid,624.5,35
+IN12AnyMou,Anything Mouse,4Moucid,256.7,9
+IN678RaRotr,Range Router,8Roucid,191.31,25
+IN32Re-Key,Real Keyboard,3Keycid,382.51,34
+IN62ReHDD,Red HDD,2Discid,498.62,6
+IN378EcoMDM,Economy Modem,15Modcid,894.02,33
+IN56TuSSD,Turn SSD,2Discid,590.72,12
+IN345AllRAM,All RAM,2Discid,202.98,18
+IN45UpPntr,Upon Printer,5Pricid,352.21,19
+IN33AllWEB,Allow Webcam,11webcid,969.4,50
+IN453Hotdriv,Hot External Hard Drive,2Discid,716.35,17
+IN452AssGraph,Assume Graphics Card,7Gracid,691.26,15
+IN32Ap-Key,Apply Keyboard,3Keycid,614.67,7
+IN56StSSD,Still SSD,2Discid,113.77,17
+IN56AdSSD,Add SSD,2Discid,751.3,32
+IN32We-Key,Well Keyboard,3Keycid,608.78,21
+IN345AskFAN,Ask Cooling Fan,16fancid,118.05,46
+IN68IndPROCESR,Indeed Processor,14Procid,388.2,14
+IN33SucWEB,Successful Webcam,11webcid,254.27,26
+IN34BilMtr,Bill Monitor,1Moncid,606.22,18
+IN55CenGpu,Center GPU,6GPacid,514.87,37
+IN45Lesply,Leave Power Supply,13Powcid,358.51,23
+IN10ReCPU,Reality CPU,12Cpucid,483.83,35
+IN345GirRAM,Girl RAM,2Discid,569.88,20
+IN32St-Key,Style Keyboard,3Keycid,663.29,16
+IN45Stsply,Start Power Supply,13Powcid,540.32,11
+IN62AgHDD,Agency HDD,2Discid,817.67,39
+IN45Spsply,Specific Power Supply,13Powcid,990.27,32
+IN378AnoMDM,Another Modem,15Modcid,74.34,26
+IN45Resply,Read Power Supply,13Powcid,458.65,14
+IN55EarGpu,Early GPU,6GPacid,330.67,49
+IN452AttGraph,Attention Graphics Card,7Gracid,408.79,30
+IN453Me driv,Me External Hard Drive,2Discid,541.84,13
+IN12AffMou,Affect Mouse,4Moucid,545.23,18
+IN678YeRotr,Year Router,8Roucid,517.73,37
+IN44TeMtrbrd,Tell Motherboard,10Motcid,882.67,19
+IN12PopMou,Popular Mouse,4Moucid,878.09,12
+IN45PrPntr,President Printer,5Pricid,131.41,27
+IN45Sosply,Soldier Power Supply,13Powcid,879.9,35
+IN33CouSCNR,Could Scanner,5Pricid,305.16,31
+IN12WheMou,Whether Mouse,4Moucid,891.53,43
+IN452BigGraph,Big Graphics Card,7Gracid,986.89,34
+IN32Pr-Key,Provide Keyboard,3Keycid,895.31,30
+IN98FutADA,Future Network Adapter,9Netcid,915.04,22
+IN345DemFAN,Democrat Cooling Fan,16fancid,147.22,6
+IN55CloGpu,Close GPU,6GPacid,219.39,12
+IN345RocRAM,Rock RAM,2Discid,643.32,31
+IN62OnHDD,Onto HDD,2Discid,644.93,20
+IN345TotFAN,Total Cooling Fan,16fancid,81.2,45
+IN33DroSCNR,Drop Scanner,5Pricid,851.35,30
+IN32Wr-Key,Writer Keyboard,3Keycid,682.39,35
+IN45OnPntr,Once Printer,5Pricid,853.24,14
+IN56MeSSD,Medical SSD,2Discid,128.21,14
+IN55TerGpu,Term GPU,6GPacid,337.14,40
+IN32Ac-Key,Across Keyboard,3Keycid,683.06,5
+IN34EmpMtr,Employee Monitor,1Moncid,446.6,31
+IN98KeeADA,Keep Network Adapter,9Netcid,740.1,18
